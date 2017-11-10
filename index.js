@@ -1,3 +1,3 @@
 currentUser = 'Daisy Luna';
 
-welcomeMessage = 'Welcome to Flatbook, ';
+welcomeMessage = 'Welcome to Flatbook,currentUser';
